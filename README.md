@@ -1,2 +1,2 @@
 # Numpy_
-Learning Numpy from chaiaur code.
+Learning Numpy from chai aur code.
